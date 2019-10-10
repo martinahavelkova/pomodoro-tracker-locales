@@ -21,67 +21,68 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 msgid "%1$s left"
-msgstr ""
+msgstr "zbývá %1$ minut"
 
 msgid "%1$s records were imported"
-msgstr ""
+msgstr "Bylo importováno %1$ záznamů"
 
 #, python-format
-msgid "%s here's your Daily report for %s"
-msgstr ""
+msgid "%s here's your Daily report for s"
+msgstr "%, tady je tvůj denní report za % "
 
 msgid "Activities"
-msgstr ""
+msgstr "Aktivity"
 
 msgid "Activity by days"
-msgstr ""
+msgstr "Aktivity po dnech"
 
 msgid "Activity by months"
-msgstr ""
+msgstr "Aktivity po měsících"
 
 msgid "Activity by weeks"
-msgstr ""
+msgstr "Aktivity po týdnech"
 
 msgid "Add"
-msgstr ""
+msgstr "Přidat"
 
 msgid "Add Activity"
-msgstr ""
+msgstr "Přidat aktivitu"
 
 msgid "Add TODO"
-msgstr ""
+msgstr "Přidat úkol"
 
 msgid "Add category"
-msgstr ""
+msgstr "Přidadt kategorii"
 
 msgid "Add more"
-msgstr ""
+msgstr "Přidat další"
 
 msgid "Add new tasks to the top"
-msgstr ""
+msgstr "Přidat nové úkoly nahoru"
 
 msgid "Alleviate anxiety linked to beginning"
-msgstr ""
+msgstr "Zmírněte úzkost spojenou se začínáním"
 
 msgid "Application"
-msgstr ""
+msgstr "Nastavení"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
-msgstr ""
+msgstr "Na začátku každého dne vyberte úkoly, které chcete dokončit a "
+"vložte je do seznamu úkolů nahoře."
 
 msgid "At time"
 msgstr ""
 
 msgid "Auto start breaks"
-msgstr ""
+msgstr "Automaticky začít přestávku"
 
 msgid "Auto start pomodoros"
-msgstr ""
+msgstr "Automaticky začít pomodoro"
 
 msgid "Block screen on breaks"
-msgstr ""
+msgstr "Blokovat obrazovku při přestávách"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr ""
@@ -171,13 +172,13 @@ msgid "Enable Web Notifications"
 msgstr ""
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
-msgstr ""
+msgstr "Zvýší zaměření a koncentraci snížením vyrušení"
 
 msgid "Enjoy your break"
-msgstr ""
+msgstr "Užij si svou přestávku"
 
 msgid "Export the records as CSV"
-msgstr ""
+msgstr "Exportovat záznamy jako CSV"
 
 msgid "Eye Keeper is enabled"
 msgstr ""
@@ -202,7 +203,12 @@ msgid ""
 "another task"
 msgstr ""
 
-msgid "Import records from CSV"
+msgid "Import 
+
+
+
+
+s from CSV"
 msgstr ""
 
 msgid "Import was failed. Check your CSV and try again."
@@ -468,34 +474,34 @@ msgid ""
 msgstr ""
 
 msgid "Support the Project"
-msgstr ""
+msgstr "Podpořte projekt"
 
 msgid "Sync with Google Tasks"
-msgstr ""
+msgstr "Synchronizovat s Google Tasks"
 
 msgid "TODO"
-msgstr ""
+msgstr "úkol"
 
 msgid "TODO list is empty."
-msgstr ""
+msgstr "Seznam úkolů je prázdný"
 
 msgid "TODO list was updated."
-msgstr ""
+msgstr "Seznam úkolů byl aktualizován"
 
 msgid "Take a short break (3-5 minutes)"
-msgstr ""
+msgstr "Udělejte si krátkou přestávku (3-5 minut)"
 
 msgid "Take more time to your life."
-msgstr ""
+msgstr "Udělejte si víc času na váš život."
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr ""
+msgstr "Děkujeme vám za zpětnou vazbu! Vaše zpráva čeká na zpracování."
 
 msgid "The Basics"
 msgstr ""
 
 msgid "The Goals"
-msgstr ""
+msgstr "Cíle"
 
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
